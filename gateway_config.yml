@@ -1,0 +1,12 @@
+identity:
+    orgId: bze97l
+    typeId: DoorStm
+    deviceId: DoorStm-1
+auth:
+    token: homeautomation123
+options:
+    domain: internetofthings.ibmcloud.com
+    logLevel: debug
+    mqtt:
+        port: 8883
+        transport: tcp

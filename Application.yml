@@ -1,0 +1,9 @@
+identity:
+    appId: any_app_id
+auth:
+    key: youra-bze97l-y7njcevsrr
+    token: yu1thyiVvmlA82ay&c
+options:
+options:
+    domain: internetofthings.ibmcloud.com
+    logLevel: debug
